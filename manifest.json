@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "The Youtube Extension",
+    "version": "1.0",
+    "description": "This YouTube extension allows seamless previewing of videos from the homepage feed, with adjustable playback speed and full-screen capability without leaving the page.",
+    "content_scripts": [
+        {
+            "matches": ["https://www.youtube.com/*"],
+            "js": ["script.js", "window.js"]
+        }
+    ]
+}

@@ -1,4 +1,4 @@
-# YouTube Video Enhancer Chrome Extension
+# The YouTube Extension
 
 This repository contains a Chrome extension that enhances the YouTube video watching experience by providing additional features. It includes functions for thumbnail swapping, playback speed control, and an ad blocker.
 
